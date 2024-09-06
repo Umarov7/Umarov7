@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ibrohim</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate back-end developer specializing in Golang</h3>
+<h1 align="center">Hi 👋, Welcome to my GitHub profile!</h1>
+<h3 align="center">I'm Ibrohim who is a passionate back-end developer specializing in Golang</h3>
 
 - 🌱 I’m currently learning **Go & Back-end operations**
 
-- 💬 Telegram account [Telegram](t.me/Umaroff_702)
+- 💬 Telegram account: [Umaroff_702](t.me/Umaroff_702)
 
-- 📨 Email address **ibrohimumarov0702@gmail.com**
+- 📨 Email address: **ibrohimumarov0702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
