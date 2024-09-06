@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go & Back-end operations**
 
-- 💬 Telegram account [t.me/Umaroff_702](t.me/Umaroff_702)
+- 💬 Telegram account [Telegram](t.me/Umaroff_702)
 
 - 📨 Email address **ibrohimumarov0702@gmail.com**
 
