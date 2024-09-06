@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go & Back-end operations**
 
-- 🦊 Gitlab account: [https://gitlab.com/Umarov702](https://gitlab.com/Umarov702)
+- 🦊 Gitlab account: [Umarov702](https://gitlab.com/Umarov702)
 
 - 💬 Telegram account: [Umaroff_702](https://t.me/Umaroff_702)
 
