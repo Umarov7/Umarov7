@@ -5,8 +5,6 @@
 
 - 🦊 Gitlab profile: [Umarov702](https://gitlab.com/Umarov702)
 
-- 💬 Telegram account: [Umaroff_702](https://t.me/Umaroff_702)
-
 - 📨 Email address: **ibrohimumarov0702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
